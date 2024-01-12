@@ -8,8 +8,8 @@ const IndexPage = () => {
     <Layout pageTitle="Home Page">
       <p>I'm making this by following the Gatsby Tutorial.</p>
       <StaticImage
-        alt="Hiramatsu-shacho, except he shrunk horizontally"
-        src="../images/techno-manila.png"
+        alt="Me, but with a JFETM uniform superimposed on my very being, essence, and soul"
+        src="../images/jfetm-nario-ramon.png"
       />
     </Layout>
   )
